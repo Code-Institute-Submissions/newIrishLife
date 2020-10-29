@@ -202,7 +202,6 @@ body {
                 font-size: 3.5rem; } }
           .section-home .intro-pitch .pitch-wrap .overview .sec-wrap h2 {
             font-size: 1.5rem;
-            font-weight: 700;
             font-family: "Lato", sans-serif;
             font-weight: 900;
             color: #172634;
@@ -591,7 +590,6 @@ body {
       border: none;
       border-bottom: 1px solid #080808;
       background: none;
-      color: #1d2528;
       padding: .5rem 0;
       color: #080808;
       font-weight: 700; }
@@ -672,7 +670,6 @@ body {
     width: 9rem;
     height: 7rem;
     font-size: 1.7rem;
-    text-decoration: none;
     color: #054144;
     text-decoration: none; }
     @media (min-width: 1200px) {
@@ -702,7 +699,6 @@ body {
       background-color: #fbfefe; }
     .right .search-wrap input {
       background-color: transparent;
-      font-size: 1rem;
       border: none;
       border-bottom: 1px solid #86c1bf;
       text-indent: 35px;
@@ -710,6 +706,10 @@ body {
       margin-left: 1rem;
       padding: .5rem 0;
       font-size: 1.2rem; }
+    .right .search-wrap input:focus {
+        outline: none;
+         }
+
       @media (min-width: 768px) {
         .right .search-wrap input {
           font-size: 1.5rem; } }
@@ -744,6 +744,10 @@ body {
       background: none;
       color: #1d2528;
       padding: 0; }
+
+     .mobile-nav-wrap .mobile-nav-search input:focus {
+        outline: none;
+         }
       @media (min-width: 360px) {
         .mobile-nav-wrap .mobile-nav-search input {
           font-size: 1.5rem; } }
@@ -860,7 +864,6 @@ body {
       color: #054144; }
     .sing-in-modal .input-group input {
       background-color: transparent;
-      font-size: 1rem;
       border: none;
       border-bottom: 1px solid #86c1bf;
       text-indent: 35px;
