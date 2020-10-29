@@ -556,7 +556,7 @@ body {
           width: 10rem;
           font-size: 2rem; } }
       .info .link-wrap .flex-link:hover {
-        background-color: rgba(84, 85, 136, 0.6);
+        background-color: rgb(49, 49, 49);
         transition: .5s ease; }
     .info .link-wrap .r {
       margin-right: 1rem; }
@@ -681,8 +681,8 @@ body {
         width: 10rem;
         font-size: 2rem; } }
     .left-wrap:hover {
-      color: #054144;
-      background-color: rgba(8, 95, 99, 0.1);
+      color: #ffffff;
+      background-color: rgba(8, 95, 99);
       transition: .5s ease; }
 
 .right {
