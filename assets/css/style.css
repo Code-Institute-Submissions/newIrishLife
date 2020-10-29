@@ -640,10 +640,7 @@ body {
       height: 3.7rem;
       font-size: 2rem;
       color: #1d2528; }
-      .social-wrap .social-link:hover {
-        color: #86c1bf;
-        transition: width .3s ease, color .3s ease; }
-
+     
 /*-- Copy --*/
 .copy {
   font-family: "Lato", sans-serif;
