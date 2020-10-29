@@ -593,6 +593,10 @@ body {
       padding: .5rem 0;
       color: #080808;
       font-weight: 700; }
+     .news form input:focus {
+         outline: none;
+     }
+
       @media (min-width: 576px) {
         .news form input {
           margin-bottom: 0.8rem;
