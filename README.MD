@@ -1,8 +1,5 @@
 # New Irish Life
 
-## From paper to code
-![alt text](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png) ![alt text](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_02.png)
-![alt text](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_03.png) ![alt text](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_04.png)
 
 
 Web-based travel guide for providing correct information how easily start living and working in Ireland.
@@ -36,6 +33,17 @@ Well, not anymore. *
 * #6 List possible Fowtawesome Icon for best UX in picture experiences
 * #7 List Semantic markup to structure HTML code
 * #8 List CSS folder structure for SASS Preprocessor configuration
+
+### Wireframes
+
+General design idea and elements order - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_03.png)
+
+Responsive Layout Planning - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_04.png)
+
+Main Layout for larger and smaller screens - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_02.png)
+
+Mobile Desing for Nav elemets - **Home** - **Trip** - **Work** - **Life** - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png)
+
 
 #### Main Layout
 * MENU - Right navigation -- Logo -- Right menu option - Search bar - Sing in  - Log in
