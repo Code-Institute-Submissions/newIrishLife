@@ -722,15 +722,15 @@ body {
     @media (min-width: 992px) {
       .right .side-icons-wrap {
         padding-top: 0; } }
-    .right .side-icons-wrap .sing {
+    .right .side-icons-wrap .sign {
       padding-right: 1.5rem;
       font-size: 1.5rem;
       text-decoration: none;
       color: #054144; }
       @media (min-width: 992px) {
-        .right .side-icons-wrap .sing {
+        .right .side-icons-wrap .sign {
           font-size: 2rem; } }
-      .right .side-icons-wrap .sing:hover {
+      .right .side-icons-wrap .sign:hover {
         color: rgba(8, 95, 99, 0.4);
         transition: .5s ease; }
 
@@ -820,33 +820,33 @@ body {
           .nav-mobile .wrap .link span {
             font-size: 1rem; } }
 
-.sing-in-modal {
+.sign-in-modal {
   font-family: "Lato", sans-serif; }
-  .sing-in-modal .mtt {
+  .sign-in-modal .mtt {
     margin-top: 1.5rem; }
-  .sing-in-modal h2 {
+  .sign-in-modal h2 {
     color: #054144;
     font-weight: 700;
     padding: 0;
     margin: 1rem 0; }
     @media (min-width: 768px) {
-      .sing-in-modal h2 {
+      .sign-in-modal h2 {
         font-size: 2.3rem; } }
-  .sing-in-modal p {
+  .sign-in-modal p {
     padding: 0;
     margin: .5rem 0;
     color: rgba(29, 37, 40, 0.6);
     font-size: 1.2rem;
     font-weight: 400; }
     @media (min-width: 768px) {
-      .sing-in-modal p {
+      .sign-in-modal p {
         font-size: 1.5rem; } }
-  .sing-in-modal .btn-close {
+  .sign-in-modal .btn-close {
     position: relative;
     background-color: saddlebrown;
     margin: 0;
     padding: 0; }
-    .sing-in-modal .btn-close .close-x {
+    .sign-in-modal .btn-close .close-x {
       position: absolute;
       top: 0;
       right: 5px;
@@ -855,18 +855,18 @@ body {
       text-decoration: none;
       color: rgba(29, 37, 40, 0.5); }
       @media (min-width: 768px) {
-        .sing-in-modal .btn-close .close-x {
+        .sign-in-modal .btn-close .close-x {
           font-size: 1.5rem;
           right: 2px; } }
-  .sing-in-modal .input-group {
+  .sign-in-modal .input-group {
     position: relative; }
-    .sing-in-modal .input-group span {
+    .sign-in-modal .input-group span {
       position: absolute;
       top: 5px;
       left: 5px;
       font-size: 1.5rem;
       color: #054144; }
-    .sing-in-modal .input-group input {
+    .sign-in-modal .input-group input {
       background-color: transparent;
       border: none;
       border-bottom: 1px solid #86c1bf;
@@ -875,9 +875,9 @@ body {
       padding: .5rem 0;
       font-size: 1.2rem; }
       @media (min-width: 768px) {
-        .sing-in-modal .input-group input {
+        .sign-in-modal .input-group input {
           font-size: 1.5rem; } }
-  .sing-in-modal .sub-button {
+  .sign-in-modal .sub-button {
     padding: 0.5rem 6rem;
     background: rgba(5, 65, 68, 0.25);
     color: #054144;
@@ -889,13 +889,13 @@ body {
     cursor: pointer;
     transition: .5s ease; }
     @media (min-width: 576px) {
-      .sing-in-modal .sub-button {
+      .sign-in-modal .sub-button {
         padding: 1.2rem 8rem;
         font-size: 1.2rem;
         margin-bottom: 1rem; } }
     @media (min-width: 768px) {
-      .sing-in-modal .sub-button {
+      .sign-in-modal .sub-button {
         font-size: 1.2rem; } }
-    .sing-in-modal .sub-button:hover {
+    .sign-in-modal .sub-button:hover {
       background-color: #054144;
       color: white; }
