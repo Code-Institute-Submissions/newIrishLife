@@ -40,7 +40,7 @@ Responsive Layout Planning - [View](https://github.com/tsokac2/newIrishLife_test
 
 Main Layout for Larger and Small screens - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_02.png)
 
-Mobile Desing for Nav Elements - **Home** - **Trip** - **Work** - **Life** - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png)
+Mobile Desing for Nav Elements - **Home.html** - **Trip.html** - **Work.html** - **Life.html** - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png)
 
 
 #### Main Layout
@@ -78,6 +78,8 @@ Formatted in three main sub-sections:
 
 ### Features Left to Implement
 Expansion plan:
+* Implementing website functionality for UX regarding Sign Up and Login forms validation
+* Implementing comments section for the users, regarding specific website content
 * Implement section for all necessary documentation in Ireland, regarding and PPS number, Bank Account option
 * Implement section regarding social events and gathering for necessary user connection expansion 
 * Connect to external API for creating user account regarding receiving news and updates - database configuration
@@ -115,7 +117,11 @@ Expansion plan:
 
 
 ## TESTING
-Development and testing cycle in order as follow:
+
+Ma
+
+
+Development and testing overview in order as follow:
 * xxs max - MAX width 240px     - elemet padding - element margins - center allignmet - fluent font size
 * xxs   - MIN width 240px       - elemet padding - element margins - center allignmet - fluent font size
 * xs    - MIN width - 360px     - elemet padding - element margins - center allignmet - fluent font size
