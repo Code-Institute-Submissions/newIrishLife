@@ -1,9 +1,9 @@
 <h1 align="center">New Irish Life</h1>
 
-Web-based travel guide for providing correct information how easily start living and working in Ireland.
+Web-based travel guide for providing correct information on how easily start living and working in Ireland.
 Finding work, a place to stay where to buy good cheap food in Ireland can be difficult but with the correct preparation, 
 advice, and planning this task can be made a lot easier.
-This web site is a great starting point.
+This website is a great starting point.
 
 ## UX
 
@@ -14,7 +14,7 @@ Well, not anymore. *
 
 #### User Story
 
-**As a new Irish resident, I want all NECESSARY AND IMPORTANT information for my New Irish Life in one place and available from any device connected to the internet,  so I can organize my life on fun and simple way.**
+**As a new Irish resident, I want all NECESSARY AND IMPORTANT information for my New Irish Life in one place and available from any device connected to the internet,  so I can organize my life in a fun and simple way.**
 **With New Irish Life that is extremely possible!**
 
 * Definition by HOME section - inform the user of page usage and purpose.
@@ -40,12 +40,12 @@ Responsive Layout Planning - [View](https://github.com/tsokac2/newIrishLife_test
 
 Main Layout for Larger and Small screens - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_02.png)
 
-Mobile Desing for Nav Elemets - **Home** - **Trip** - **Work** - **Life** - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png)
+Mobile Desing for Nav Elements - **Home** - **Trip** - **Work** - **Life** - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png)
 
 
 #### Main Layout
 * MENU - Right navigation -- Logo -- Right menu option - Search bar - Sing in  - Log in
-* MAIN SECTION AREA - Main section content folowing web site features - HOME - TRIP - WORK - LIFE
+* MAIN SECTION AREA - Main section content following website features - HOME - TRIP - WORK - LIFE
 * FOOTER -  Footer Menu links - Newsletter Subtraction - Social Media links - Copyrights 
 
 ## FEATURES
@@ -71,7 +71,7 @@ Formated in two main sub-sections:
 
 #### LIFE
 Section with life essentials factors after moving to Ireland
-Formated in three main sub-sections:
+Formatted in three main sub-sections:
 * Accommodation online search agencies
 * Mobile/internet networks providers
 * Irish Top food chains
@@ -80,7 +80,7 @@ Formated in three main sub-sections:
 Expansion plan:
 * Implement section for all necessary documentation in Ireland, regarding and PPS number, Bank Account option
 * Implement section regarding social events and gathering for necessary user connection expansion 
-* Connect to external API for creating user account regarding receiving news and updates - data base configuration
+* Connect to external API for creating user account regarding receiving news and updates - database configuration
 * Offer add for recruitment agencies  - the connection between end-user and possible employer or recruitment agent
 
 ## TECHNOLOGIES USED
@@ -168,7 +168,7 @@ SOLUTION: ` <div class="modal fade" id="sing-in" data-backdrop="static" data-key
 SOLUTION SOURCE -  https://stackoverflow.com/questions/39831658/how-to-fix-the-aria-labelledby-attribute-must-point-to-an-element-in-the-same-d
  
 
-## DEPLOYMNET
+## DEPLOYMENT
 
 Project link - [newIrishLife](https://tsokac2.github.io/newIrishLife/)
 
