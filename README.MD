@@ -118,7 +118,19 @@ Expansion plan:
 
 ## TESTING
 
-Ma
+Major testing web browsers included in project testing - Goggle Chrome - Mozilla Firefox  - Microsoft Edge 
+When the website is successfully uploaded to GitHub and the website URL is generated, the testing process can start:
+
+* STEP 1.	Copy website URL to -  **W3C Markup Validation Service**
+* STEP 2.	Correct all code errors and warnings - possible source of solutions on **stack overflow** -  https://stackoverflow.com/ 
+* STEP 3.	Check any console error by using Google Chrome or Mozzila Firefox  **Developer Tools** -  schorcut - Ctrl + Shift + I
+* STEP 4.	By using Developers Tools chose option **Toggle device toolbar** and test the website on all devices - starting from the smallest device and working to the largest
+* STEP 5.	When testing the website on multiple devices and screen sizes is recommended to check viewport rotation on mobile devices since the viewport is different for portrait and landscape orientation.
+* STEP 6.	Check website breaking points for smartphones, tablets, and desktop devices
+* STEP 7. 	Check paragraph margins, padding, and font sizing on small and larger devices
+* STEP 8.	Make sure all external links are opening in a separate browser tab and leading the user to the correct website destination
+* STEP 9.	Check Color contras for foreground and background colors by using **Contrast Checker** - https://contrastchecker.com/
+* STEP 10.	Check code organization for future updates
 
 
 Development and testing overview in order as follow:
@@ -135,6 +147,8 @@ Development and testing overview in order as follow:
 MOZILLA FIREFOX -   https://www.mozilla.org/en-US/firefox/new/
 
 GOOGLE CHROME   -   https://www.google.com/chrome 
+
+MICROSOFT EDGE - https://www.microsoft.com/en-us/edge
 
 GITPOD          -   https://www.gitpod.io/
 * server startup: `python3 -m http.server`
