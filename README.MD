@@ -1,6 +1,4 @@
-# New Irish Life
-
-
+<h1 align="center">New Irish Life</h1>
 
 Web-based travel guide for providing correct information how easily start living and working in Ireland.
 Finding work, a place to stay where to buy good cheap food in Ireland can be difficult but with the correct preparation, 
@@ -36,13 +34,13 @@ Well, not anymore. *
 
 ### Wireframes
 
-General design idea and elements order - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_03.png)
+General Design idea and Elements order - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_03.png)
 
 Responsive Layout Planning - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_04.png)
 
-Main Layout for larger and smaller screens - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_02.png)
+Main Layout for Larger and Small screens - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_02.png)
 
-Mobile Desing for Nav elemets - **Home** - **Trip** - **Work** - **Life** - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png)
+Mobile Desing for Nav Elemets - **Home** - **Trip** - **Work** - **Life** - [View](https://github.com/tsokac2/newIrishLife_testing/blob/master/public/wireframes/w_01.png)
 
 
 #### Main Layout
